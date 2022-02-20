@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list_of_games SYSTEM "structure.dtd">
+<?xml-stylesheet type="text/xsl" href="div_list.xsl"?>
+<list_of_games>
+    <game id="1" type ="Recreation">
+        <name>Minecraft</name>
+        <release_date>18.11.2011
+        </release_date>
+        <developer>Mojang Studios</developer>
+        <img>https://image.ceneostatic.pl/data/products/47570063/i-minecraft-java-edition-digital.jpg</img>
+        <description type="short">
+            The world is yours for the making! Prepare for an adventure of limitless possibilities as you build, mine, battle mobs, and explore the ever-changing Minecraft landscape.
+            </description>
+    </game>
+    <game id="2" type="Action" >
+        <name>Factorio</name>
+        <release_date>25.02.2016</release_date>
+        <developer>Wube Software</developer>
+        <img>https://e.snmc.io/lk/l/x/93f85032c87f991d3de84a35354a60a1/8547754</img>
+        <description type="long">Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.</description>
+    </game>
+    <game id="3" type="FPS">
+        <name>Counter-Strike: Global Offensive</name>
+        <release_date>21.08.2012</release_date>
+        <developer>Valve Corporation</developer>
+        <img>https://e.snmc.io/lk/l/x/4faf3038dd335ea2ffbd5904866a78bb/5288945</img>
+        <description type="long">Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).</description>
+    </game>
+    <game id="4" type="Logical">
+        <name>Tetris</name>
+        <release_date>06.06.1984</release_date>
+        <developer>Aleksiej Pażytnow</developer>
+        <img>https://www.mobygames.com/images/covers/l/16097-tetris-nes-front-cover.jpg</img>
+        <description type="short">Tetris® Effect: Connected adds an all-new robust multiplayer expansion to the huge variety of addictive and innovative single-player modes that Tetris Effect is known for, with all-new co-op and competitive online and local multiplayer modes!</description>
+    </game>
+    <game id="5" type="Recreation">
+        <name>Stardew Valley</name>
+        <release_date>26.02.2016</release_date>
+        <developer>Eric Barone</developer>
+        <img>https://e.snmc.io/lk/l/x/b993c2cc055a5f5f6f00f808271b8960/5274911</img>
+        <description type="short" >You've inherited your grandfather's old farm plot in Stardew Valley.Armed with hand-me-down tools and a few coins, you set out to begin your new life!</description>
+    </game>
+    <game id="6" type="Logical">
+        <name>Danganronpa: Trigger Happy Havoc</name>
+        <release_date>25.11.2010</release_date>
+        <developer>Spike Chunsoft</developer>
+        <img>https://e.snmc.io/lk/l/x/70ea89185bf65f150f4321785a69f8de/9282591</img>
+        <description type="long">Investigate murders, search for clues and talk to your classmates to prepare for trial. There, you'll engage in deadly wordplay, going back and forth with suspects. Dissect their statements and fire their words back at them to expose their lies! There's only one way to survive—pull the trigger.</description>
+    </game>
+    <game id="7" type="FPS">
+        <name>Battlefield 4</name>
+        <release_date>29.10.2013</release_date>
+        <developer>EA DICE</developer>
+        <img>https://e.snmc.io/lk/l/x/2f18ad4e3a4df25c6b9248077779a01b/6687894</img>
+        <description type="short">Battlefield 4™ is the genre-defining action blockbuster made from moments that blur the line between game and glory. Fueled by the next-generation power and fidelity of Frostbite™ 3, Battlefield 4 provides a visceral, dramatic experience unlike any other.</description>
+    </game>
+    <game id="8" type="FPS">
+        <name>Battlefield 1</name>
+        <release_date>21.10.2016</release_date>
+        <developer>EA DICE</developer>
+        <img>https://e.snmc.io/lk/n/x/8c677b42039c84369b2216382c290e7b/5282445</img>
+        <description type="long">Similar to its predecessors, Battlefield 1 is a first-person shooter game that emphasizes teamwork. It is set in the period of World War I, and is inspired by historical events. Melee combat was reworked, with DICE introducing new melee weapons such as sabres, trench clubs, and shovels into the game.</description>
+    </game>
+    <game id="9" type="Logical">
+        <name>Danganronpa 2: Goodbye Despair</name>
+        <release_date>29.07.2012</release_date>
+        <developer>Spike Chunsoft</developer>
+        <img>https://e.snmc.io/lk/lv/x/54f9a1f47f483112f060e987b8abb0d6/6850851</img>
+        <description type="short">Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries.</description>
+    </game>
+    <game id="10" type="Logical">
+        <name>Danganronpa V3: Killing Harmony</name>
+        <release_date>12.01.2017</release_date>
+        <developer>Spike Chunsoft</developer>
+        <img>https://e.snmc.io/lk/lv/x/59fe7f920d975bf3a246a50f046bab07/6691325</img>
+        <description type="long">A new cast of 16 characters find themselves kidnapped and imprisoned in a school. Inside, some will kill, some will die, and some will be punished. Reimagine what you thought high-stakes, fast-paced investigation was as you investigate twisted murder cases and condemn your new friends to death.</description>
+    </game>
+    <game id="11" type="Action">
+        <name>Hades</name>
+        <release_date>06.12.2018</release_date>
+        <developer>Supergiant Games</developer>
+        <img>https://e.snmc.io/lk/l/x/a3a2c54dd39f5c4c819bc3dfc4b9d57e/8467179</img>
+        <description type="short">Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.</description>
+    </game>
+</list_of_games> 

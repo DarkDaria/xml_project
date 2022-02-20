@@ -1,0 +1,14 @@
+<!ELEMENT list_of_games (game+)>
+<!ELEMENT game (name+|type+|release_date*|developer+|img?|description?)*>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT release_date (#PCDATA)>
+<!ELEMENT developer (#PCDATA)>
+<!ELEMENT img (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+
+<!ATTLIST description type CDATA #IMPLIED>
+
+<!ATTLIST game id CDATA #REQUIRED>
+<!ATTLIST game type CDATA #IMPLIED>
